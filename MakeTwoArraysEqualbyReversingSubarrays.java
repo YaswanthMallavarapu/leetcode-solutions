@@ -3,6 +3,7 @@ import java.util.Arrays;
 public class MakeTwoArraysEqualbyReversingSubarrays {
     public static void main(String[] args) {
         //code
+        //leetcode 1460
     }
     
     public boolean canBeEqual(int[] target, int[] arr) {
