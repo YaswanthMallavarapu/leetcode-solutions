@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class LongestUnequalAdjacentGroupsSubSequence2206 {
+public class LongestUnequalAdjacentGroupsSubSequence2900 {
     
 
     public List<String> getLongestSubsequence(String[] words, int[] groups) {
