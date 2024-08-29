@@ -16,7 +16,7 @@ public class LongestUnequalAdjacentGroupsSubSequence2900 {
       for(int i=1;i<n;i++){
         if(groups[i]!=prev){
             result.add(words[i]);
-            prev=groups[i];
+            prev=groups[i]; 
         }
       }
       return result;
